@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "noise.h"
+#include "main.h"
 
 /**
  * main - check the code
