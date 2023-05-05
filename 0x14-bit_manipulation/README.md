@@ -1,7 +1,7 @@
 0x14. C - Bit manipulation
 ================
 
--   By Julien Barbier, co-founder & CEO
+-   By Julien Barbier, co-founder & CEO.
 
 Background Context
 ------------------
