@@ -1,10 +1,10 @@
-#include <elf.h>
-#include <sys/types.h>
-#include <sys/stat.h>
-#include <fcntl.h>
-#include <unistd.h>
-#include <stdio.h>
 #include <stdlib.h>
+#include <stdio.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <fcntl.h>
+#include <elf.h>
+#include <unistd.h>
 
 void print_addr(char *ptr);
 void print_type(char *ptr);
@@ -17,9 +17,8 @@ int check_elf(char *ptr);
 
 /**
  * main - check the code
- * @argc: number of arg.
- * @argv: arg vector.
- *
+ * @argc: number of arguments.
+ * @argv: arguments vector.
  * Return: Always 0.
  */
 int main(int argc, char *argv[])
