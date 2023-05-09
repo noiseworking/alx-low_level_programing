@@ -20,7 +20,7 @@ Resources
 
 **man or help**:
 
--    "open"
+-    [open]("open")
 -    [close]
 -    [read]
 -    [write]
